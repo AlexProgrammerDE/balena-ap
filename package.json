@@ -13,6 +13,7 @@
   "keywords": [
     "ap"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "AlexProgrammerDE",
   "license": "ISC",
   "bugs": {
