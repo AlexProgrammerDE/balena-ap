@@ -1,5 +1,5 @@
 {
-  "name": "balena-ap",
+  "name": "@AlexProgrammerDE/balena-ap",
   "version": "1.0.0",
   "description": "",
   "main": "Make your own access point with this node.js project.",
