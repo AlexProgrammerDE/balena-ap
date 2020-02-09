@@ -1,0 +1,22 @@
+{
+  "name": "balena-ap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Make your own access point with this node.js project.",
+  "scripts": {
+    "test": "balena-ap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexProgrammerDE/balena-ap.git"
+  },
+  "keywords": [
+    "ap"
+  ],
+  "author": "AlexProgrammerDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexProgrammerDE/balena-ap/issues"
+  },
+  "homepage": "https://github.com/AlexProgrammerDE/balena-ap#readme"
+}
