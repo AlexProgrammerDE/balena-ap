@@ -16,7 +16,9 @@
   "keywords": [
     "ap"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "AlexProgrammerDE",
   "license": "ISC",
   "bugs": {
@@ -24,6 +26,7 @@
   },
   "homepage": "https://github.com/AlexProgrammerDE/balena-ap#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "wireless-tools": "^0.19.0"
   }
 }
